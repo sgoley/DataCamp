@@ -15,6 +15,7 @@ correct_not_confident.
 wrong_not_confident.
 wrong_confident.
 actual_labels.
+
 '''
 # Compute and print log loss for 1st case
 correct_confident = compute_log_loss(correct_confident, actual_labels)
